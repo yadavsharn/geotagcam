@@ -47,3 +47,6 @@ app.*.map.json
 # Generated Android API files
 android/app/*.conf
 android/app/*.olf
+
+android/app/*.conf
+android/app/*.olf
